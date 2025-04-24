@@ -1,0 +1,8 @@
+
+.link {
+    @apply hover:underline ml-5 transition-all
+}
+
+.activeLink{
+    @apply text-rose-500
+}
