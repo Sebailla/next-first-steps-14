@@ -13,3 +13,9 @@ pnpm dev
 bun dev
 ```
 
+## Docker
+
+```
+docker build -t next-first-steps-14 .
+docker run --name next-first-step-14 -p 3000:3000 next-first-steps-14
+```
